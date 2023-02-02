@@ -8,6 +8,7 @@ My name is _Kyle Johnson_
 - 🎸 In my free time I like to play guitar and Dota 2, read classics, and investigate sasquatch
 - 🎓 Bachelor in Mathematics and Computer Science from RUC
 - 👨🏻‍🏭  Full Stack Developer / Data Engineer at Weld
+- 🤫 I'm currently working on a functional programming language written in go - think Haskell meets TypeScript
 
 <!--
 **miningape/miningape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
