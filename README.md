@@ -6,7 +6,7 @@ My name is _Kyle Johnson_
 - 🇿🇦 From South Africa
 - ✨ Passionate about building user-centric products with crazy high availability
 - 🎸 In my free time I like to play guitar and Dota 2, read classics, and investigate sasquatch
-- 🎓 Bachelors in Mathematics and Computer Science from RUC
+- 🎓 Bachelor in Mathematics and Computer Science from RUC
 - 👨🏻‍🏭 Full Stack Developer / Data Engineer at Weld
 
 <!--
