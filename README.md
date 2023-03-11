@@ -9,7 +9,9 @@ My name is _Kyle Johnson_
 - 🎓 Bachelor in Mathematics and Computer Science from RUC
 - 👨🏻‍🏭 Full Stack Developer / Data Engineer at Weld
 - 🤫 I'm currently working on a functional programming language written in go - think Haskell meets TypeScript
+- ⚡ I'm also working on visualising / analysing the housing market data in Copenhagen - Check out the pipelines and analysis [here](https://github.com/miningape/housing-data/)
 - 🧠 Fun fact: Australia is wider than the moon
+- 📫 How to reach me: kcjohns6@gmail.com or miningape@gmail.com
 
 <!--
 **miningape/miningape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
