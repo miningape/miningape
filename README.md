@@ -7,7 +7,7 @@ My name is _Kyle Johnson_
 - ✨ Passionate about building user-centric products with crazy high availability
 - 🎸 In my free time I like to play guitar and Dota 2, read classics, and investigate sasquatch
 - 🎓 Bachelor in Mathematics and Computer Science from RUC
-- 👨🏻‍🏭 Full Stack Developer / Data Engineer at Weld
+- 👨🏻‍🏭 Backend Developer at Brandwatch
 - 🤫 I'm currently working on a functional programming language written in go - think Haskell meets TypeScript
 - ⚡ I'm also working on visualising / analysing the housing market data in Copenhagen - Check out the pipelines and analysis [here](https://github.com/miningape/housing-data/)
 - 🧠 Fun fact: Australia is wider than the moon
